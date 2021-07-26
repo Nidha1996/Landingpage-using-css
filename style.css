@@ -5,7 +5,7 @@ body{
     margin:0;
 }
 #head{
-    background-image:url("../Images/beach.jpeg");
+    background-image:url("beach.jpeg");
     background-position: center;
     background-size: cover;
     height:100vh;
